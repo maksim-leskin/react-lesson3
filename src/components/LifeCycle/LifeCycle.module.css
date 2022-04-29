@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  gap: 3em;
+}
+
+.title {
+  margin-bottom: 1em;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
